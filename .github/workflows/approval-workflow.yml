@@ -1,6 +1,6 @@
 name: Team awesome's approval workflow
 on:
-  pull_request_review:
+ pull_request_review:
     types: [submitted]
 
 jobs:
